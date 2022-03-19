@@ -1,7 +1,0 @@
-this is my space to add git commands
-
-git init -- to initialize git project
-
-git status -- to check the status of the pull
-
-git pull -- to get all files from remote repository

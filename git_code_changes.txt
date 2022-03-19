@@ -1,1 +1,3 @@
 this is my space to add git commands
+
+git init -- to initialize GIT

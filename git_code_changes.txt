@@ -1,7 +1,2 @@
 test auto build from jenkins
-Not Happening test 1
-Not Happening test 2
-Not Happening test 3
-Not Happening test 4
-Not Happening test 5
-Not Happening test 6
+

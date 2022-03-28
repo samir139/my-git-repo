@@ -1,3 +1,1 @@
-test auto build from jenkins
-
-Test 2
+Hello Jenkins.....this is an automated build code

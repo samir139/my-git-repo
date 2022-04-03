@@ -1,3 +1,1 @@
-local test changes updated
-Now  test me  now
-12 24
+Hello Jenkins automated push from GIT
